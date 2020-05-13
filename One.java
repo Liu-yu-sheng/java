@@ -5,9 +5,9 @@ public class One {
 		// TODO Auto-generated method stub
 		int num = 5;
 		if (num % 2 == 0) {
-			System.out.println("Å¼Êı");
+			System.out.println("å¶æ•°");
 		}else {
-			System.out.println("ÆæÊı");
+			System.out.println("å¥‡æ•°");
 		}
 		
 		
@@ -15,22 +15,22 @@ public class One {
 		int n = 8;
 		switch(n) {
 		case 1:
-			System.out.println("ĞÇÆÚÒ»");
+			System.out.println("æ˜ŸæœŸä¸€");
 			break;
 		case 2:
-			System.out.println("ĞÇÆÚ¶ş");
+			System.out.println("æ˜ŸæœŸäºŒ");
 			break;
 		case 3:
-			System.out.println("ĞÇÆÚÈı");
+			System.out.println("æ˜ŸæœŸä¸‰");
 			break;
 		case 4:
-			System.out.println("ĞÇÆÚÈı");
+			System.out.println("æ˜ŸæœŸä¸‰");
 			break;
 		case 5:
-			System.out.println("ĞÇÆÚÎå");
+			System.out.println("æ˜ŸæœŸäº”");
 			break;
 		default:
-			System.out.println("²»ÖªµÀĞÇÆÚ¼¸");
+			System.out.println("ä¸çŸ¥é“æ˜ŸæœŸå‡ ");
 			break;
 		}
 		
@@ -44,12 +44,12 @@ public class One {
 			System.out.println("b");
 			break;
 		default:
-			System.out.println("²»Ã÷È·");
+			System.out.println("ä¸æ˜ç¡®");
 			break;
 		}
 		
-		//ÀıÌâ1
-		System.out.println("------ ÀıÌâ1-------");
+		//ä¾‹é¢˜1
+		System.out.println("------ ä¾‹é¢˜1-------");
 		char c = 'a';
 		switch(c) {
 		case 'a':
@@ -69,54 +69,54 @@ public class One {
 			break;
 		}
 		
-		//ÀıÌâ2
-		System.out.println("-------ÀıÌâ2-------");
+		//ä¾‹é¢˜2
+		System.out.println("-------ä¾‹é¢˜2-------");
 		int soucer = 60;
 		if (soucer >= 60) {
-			System.out.println("¼°¸ñ");
+			System.out.println("åŠæ ¼");
 		}else {
-			System.out.println("²»¼°¸ñ");
+			System.out.println("ä¸åŠæ ¼");
 		}
 		
-		//ÀıÌâÈı
-		System.out.println("-------ÀıÌâ3--------");
+		//ä¾‹é¢˜ä¸‰
+		System.out.println("-------ä¾‹é¢˜3--------");
 		String month = "1";
 		switch(month) {
 		case "3":
-			System.out.println("´º¼¾");
+			System.out.println("æ˜¥å­£");
 			break;
 		case "4":
-			System.out.println("´º¼¾");
+			System.out.println("æ˜¥å­£");
 			break;
 		case "5":
-			System.out.println("´º¼¾");
+			System.out.println("æ˜¥å­£");
 			break;
 		case "6":
-			System.out.println("ÏÄ¼¾");
+			System.out.println("å¤å­£");
 			break;
 		case "7":
-			System.out.println("ÏÄ¼¾");
+			System.out.println("å¤å­£");
 			break;
 		case "8":
-			System.out.println("ÏÄ¼¾");
+			System.out.println("å¤å­£");
 			break;
 		case "9":
-			System.out.println("Çï¼¾");
+			System.out.println("ç§‹å­£");
 			break;
 		case "10":
-			System.out.println("Çï¼¾");
+			System.out.println("ç§‹å­£");
 			break;
 		case "11":
-			System.out.println("Çï¼¾");
+			System.out.println("ç§‹å­£");
 			break;
 		case "12":
-			System.out.println("¶¬¼¾");
+			System.out.println("å†¬å­£");
 			break;
 		case "1":
-			System.out.println("¶¬¼¾");
+			System.out.println("å†¬å­£");
 			break;
 		case "2":
-			System.out.println("¶¬¼¾");
+			System.out.println("å†¬å­£");
 			break;
 		}
 		
@@ -126,33 +126,4 @@ public class One {
 	
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
